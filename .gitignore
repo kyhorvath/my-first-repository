@@ -1,0 +1,11 @@
+# Ignore all SQLite databases
+db/*.sqlite3
+q
+x
+^x
+^X
+Exit
+
+Exit
+^X Exit
+
